@@ -1,3 +1,10 @@
+/* 
+'mudar_diretorio(nome do diretório)' - navega entre os diretórios criados
+'criar_diretorio(nome do diretório)' - cria um diretório
+'excluir_diretório(nome do diretório)' - exclui um diretório
+'listar_diretorios' - lista todos os diretórios dentro do diretório atual
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
